@@ -1,0 +1,6 @@
+framework module LTFramework {
+  umbrella header "LTFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
